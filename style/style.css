@@ -1,4 +1,63 @@
 h1{
   font-size: 50px;
-  color: blue;
+  text-align: center;
+  color:deepskyblue;
+}
+
+.image-gallary img{
+    width: 25%;
+    height: 450px;
+    margin: 10px;
+    padding: 20px;
+     
+}
+.image-gallary{
+  text-align: center;
+}
+
+.icecreamh{
+  color:chocolate
+}
+.link-wrapper{
+  text-align: center;
+}
+.link-wrapper a {
+   font-size: 25px;
+  background-color:#08C1FF;
+  padding: 15px 25px 15px 25px ;
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  color: wheat
+}
+
+
+}
+p{
+  font-size: 25px;
+ 
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.logo img{
+  width: 250px;
+  height: 150px;
+  margin: 10px;
+}
+.logo{
+  text-align: center;
+}
+.menu{
+  text-align: right;
+}
+
+.menu a{
+  background-color:#08C1FF;
+  padding: 10px 20px 15px 25px;
+  font-size: 30px;
+  color: aliceblue;
+  border-radius: 10px;
+  margin: 10px;
+  text-decoration: none;
 }
